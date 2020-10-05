@@ -1,5 +1,7 @@
 # Web Design Standards
 
+## *Early Draft*
+
 ## Vision
 
 To give web developers a concrete checklist that they can test their websites against to increase the quality of their work.
