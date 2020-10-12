@@ -29,7 +29,13 @@ Note: nothing to do with right/left handedness.
 ### Respect People
 
 - Don't show advertisements on your website.
-- Don't display full screen notifications that ask people to sign up for a newsletter (or similiar). If your content is good enough they will come back.
+- Don't display full screen notifications that ask people to sign up for a newsletter (or similar). If your content is good enough they will come back.
+
+### Minimal Requirements
+
+The core functions of your website should work, even when **JavaScript** and **Cookies** are disabled.
+
+E.g. if your website allows people to find and compare car rentals then you should be able to find, compare and rent a car with JavaScript and Cookies disabled. If you can also log in to save your searches and for faster checkout this doesn't need to work without JavaScript and Cookies because it's not the central function of your website.
 
 ## Glossary
 
