@@ -28,6 +28,8 @@ Note: nothing to do with right/left handedness.
 
 ### Respect People
 
+- Don't try to trick people with cookie banners.
+
 - Don't show advertisements on your website.
 - Don't display full screen notifications that ask people to sign up for a newsletter (or similar). If your content is good enough they will come back.
 
