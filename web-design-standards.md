@@ -4,7 +4,9 @@ A concrete checklist for web developers to test their work against.
 
 ## The Standards
 
-### Navigation
+I am aware that these standards set the bar really high. Not every web developer will be able to follow them in their entirity because most of us work for someone else. However, web design is not easy and it's not a niche. Good design comes at a cost. This means that you have to sacrifice beauty for usability (e.g. not hiding navigation menus on wide screens) and profit for beauty (not showing ads).
+
+### 1. Navigation
 
 - Site navigation should always be visible. The user should never have to scroll to the top (or bottom) of a page to access it. This includes the user having to use a 'to top' button to jump back to the top of the page.
 
@@ -29,9 +31,8 @@ Note: nothing to do with right/left handedness.
 ### Respect People
 
 - Don't try to trick people with cookie banners.
-
-- Don't show advertisements on your website.
-- Don't display full screen notifications that ask people to sign up for a newsletter (or similar). If your content is good enough they will come back.
+- Don't show advertisements on your website. WHAT!? Yes. Advertisements seriously harm good design.
+- Don't display full screen notifications that ask people to sign up for a newsletter (or similar). Rather, have a call-to-action button that's clearly visible but not intrusive. If your content is good enough they will come back.
 
 ### Minimal Requirements
 
